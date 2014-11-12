@@ -1,0 +1,1 @@
+Dog,hund,2 House,hus,5 Water,vand,1 Hello,hej,5 Tower,tårn,2 Cat,kat,3 Bil,car,2 Hjul,wheel,4 fjernsyn,television,2 bygning,building,4 town,by,4 collection,samling,1 mouse,mus,5 bird,fugl,3 Collaboration,samarbejde,1 Beer,øl,1 
